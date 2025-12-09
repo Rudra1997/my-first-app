@@ -1,0 +1,8 @@
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white&style=for-the-badge&labelColor=0A0F1A)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge&labelColor=0A0F1A)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=0A0F1A)
+![Cloud Run](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge&labelColor=0A0F1A)
+![LangChain](https://img.shields.io/badge/LangChain-00C3A5?logo=chainlink&logoColor=white&style=for-the-badge&labelColor=0A0F1A)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=0A0F1A)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=0A0F1A)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge&labelColor=0A0F1A)
